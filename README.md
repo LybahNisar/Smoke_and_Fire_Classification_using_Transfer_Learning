@@ -36,14 +36,6 @@ This project focuses on classifying images into two categories: **Smoke** and **
 
 ---
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/smoke-fire-classification.git
-cd smoke-fire-classification
-----
 
 ## 📊 Key Features
 - Train a deep learning model using EfficientNetB0.
