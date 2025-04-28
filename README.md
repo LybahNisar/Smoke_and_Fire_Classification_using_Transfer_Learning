@@ -58,11 +58,17 @@ This project focuses on classifying images into two categories: **Smoke** and **
 ## 📈 Model Performance
 
 Metric	Value
+
 Test Accuracy           	~76.0%
+
 Precision (Fire)         	1.0000
+
 Recall (Fire)            	0.5200
+
 Precision (Smoke)       	0.6757
+
 Recall (Smoke)	          1.0000
+
 ----
 ## 📸 Sample Outputs
 - Training and Validation Accuracy/Loss Curves
